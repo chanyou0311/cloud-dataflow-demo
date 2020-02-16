@@ -1,6 +1,6 @@
-# scratch-cloud-dataflow
+# cloud-dataflow-demo
 
-Cloud Dataflow のチュートリアル
+This repository is a Cloud Dataflow demo.
 
 ## setup GCP
 
